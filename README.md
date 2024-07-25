@@ -1,12 +1,8 @@
 ### Hi, I'm Temitope!
-
-Here are some ideas to get you started:
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studied Software Engineering at NIIT Institute, Nigeria <br/>
 💭 Currently learning about cybersecurity!<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Temitope's github stats](https://github-readme-stats.vercel.app/api?username=topeolufemi&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # 💻 Tech Stack
